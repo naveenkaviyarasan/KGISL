@@ -1,0 +1,34 @@
+table{
+    border: solid black;
+    margin-left: 580px;
+    padding: 30px;
+    background-color: aqua;
+    margin-top: 40px;
+    line-height: 40px;
+    border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    margin-top: 40px;
+}
+input[type="text"]{
+    width: 300px;
+    height: 30px;
+}
+button{
+    width: 310px;
+    height: 30px;
+}
+.abc{
+    text-align:center ;
+}
+.def{
+    text-align:center ;
+}
+body{
+    background-color: gold;
+}
+span{
+    float: right;
+}

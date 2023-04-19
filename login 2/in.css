@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+.content{
+    background-color:white;
+    width: 500px;
+    height:500px ;
+    margin-left: 500px;
+    text-align:  left;
+    margin-top: 150px;
+    border-radius: 20px;
+    
+
+
+}
+table{
+    margin-left: 40px;
+    line-height: 50px;
+    
+}
+button{
+    width: 405px;
+    height: 40px;
+    background-color: palevioletred;
+    border-radius: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 400px;
+    border-bottom-color: palevioletred;
+    padding: 10px;
+    
+}
+h3{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: rgb(108, 207, 72);
+}
+.spl{
+    background-color: skyblue;
+    border-radius: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.spl1{
+    background-color: blue;
+    border-radius: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

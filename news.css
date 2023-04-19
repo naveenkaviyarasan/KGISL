@@ -1,0 +1,16 @@
+div{
+    column-rule: 10px;
+    column-count:20px ;
+    column-gap: 20px;
+}
+.img1{
+    position: absolute;
+    top:250px;
+    left:900px;
+}
+input[type="text"]{
+    width: 570px;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}

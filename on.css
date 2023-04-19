@@ -1,0 +1,55 @@
+table{
+    border: solid black;
+    margin-left: 450px;
+    margin-top: 90px;
+    background-color: rgb(212, 12, 196);
+    padding: 50px;
+    border-radius: 50px;
+}
+body{
+    background-color: skyblue;
+}
+.meta{
+    margin-left: 10px;
+    line-height:0.5px;
+    width: 200px;
+}
+input[type="text"]{
+    width: 500px;
+    height: 30px;
+    border-radius: 10px;
+}
+textarea{
+    width: 450px;
+    height: 60px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+button{
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 100px;
+    background-color: green;
+}
+.one{
+padding: 10px;
+}
+.two{
+    padding: 10px;
+}
+.three{
+    padding: 10px;
+}
+.four{
+    padding: 10px;
+}
+.five{
+    padding: 10px;
+}
+.red{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+}
+
+

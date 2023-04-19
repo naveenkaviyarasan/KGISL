@@ -1,0 +1,48 @@
+body{
+    background: linear-gradient(to bottom right,pink,skyblue);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    margin:0 auto;
+    margin-top: 100px;
+}
+input{
+    margin-right: 120px;
+    width: 500px;
+    height: 30px;
+}
+h1{
+    margin-right: 220px;   
+}
+button{
+       margin-left: -15px;
+       width:510px;
+       height: 30px;
+       color: white;
+       background-color:rgb(212, 21, 167);
+       border-radius: 10px;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+table{
+    
+    padding: 15px;
+    line-height: 40px;
+    background-color: red;
+    margin:0 auto;
+    height: 500;
+    width: 300px;
+    border-radius: 60px;
+    
+}
+div{
+    border:20px solid green;
+ background-color: green;
+ max-width: 900px;
+ margin-left: 300px;
+ padding: 60px;
+ border-radius: 40px;
+}
+input[type="text"]{
+    margin-left: 100px;
+}

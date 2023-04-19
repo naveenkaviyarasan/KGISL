@@ -1,0 +1,77 @@
+.content{
+    margin: 0 auto;
+}
+.one{
+    text-align: center;
+}
+.two{
+    text-align: center;
+}
+.three{
+    float: left;
+    text-align: center;
+    margin-left: 70px;
+    background-color: white;
+    width: 390px;
+    height: 220px;
+    border: solid green;
+    box-shadow: 10px 30px 30px 0px green,
+                -10px 0px 10px 0px green,
+                0px 10px 10px 5px green         ;
+    border-radius: 10px;
+    margin-top: 30px;
+    
+}
+.four{
+    margin-left: 50px;
+}
+.five{
+    border-radius: 10px;
+    background-color: green;
+}
+.ert{
+    float: left;
+ text-align: center;
+    margin-left: 70px;
+    background-color: white;
+    width: 390px;
+    height: 220px;
+    border: solid red;
+    box-shadow: 10px 30px 30px 0px red,
+                -10px 0px 10px 0px red,
+                0px 10px 10px 5px red;
+    border-radius: 10px;
+    margin-top: 30px;
+       
+}
+.tbl{
+    margin-left: 70px;
+}
+.bton{
+ border-radius: 10px;
+    background-color: red;   
+}
+.sales{
+    float: left;
+    text-align: center;
+    margin-left: 70px;
+    background-color: white;
+    width: 390px;
+    height: 220px;
+    border: solid blue;
+    box-shadow: 10px 30px 30px 0px blue,
+                -10px 0px 10px 0px blue,
+                0px 10px 10px 5px blue;
+    border-radius: 10px;
+    margin-top: 30px;
+       
+}
+.marketing{
+    margin-left: 70px;
+}
+.ton{
+    border-radius: 10px;
+       background-color: blue;   
+   }
+
+    

@@ -1,0 +1,69 @@
+table{
+    background-color: blueviolet;
+    width: 500px;
+    height: 500px;
+    margin-left:500px ;
+    padding: 15px;
+    font-family: fantasy;
+    border-radius: 10px;
+    line-height: 30px;
+}
+h1{
+    text-align: center;
+    font-family: fantasy;
+    color: red;
+    border-color: blueviolet;
+    margin-right: 70px;
+}
+body{
+    background-color: aqua;
+   background-image: url("https://cdn.wallpapersafari.com/94/92/L3cw9K.jpeg");
+   background-repeat: no-repeat;
+}
+textarea{
+    width: 300px;
+    height: 30px;
+}
+input[type="text"]{
+    width: 200px;
+    height: 30px;
+}
+input[type="date"]{
+    width: 200px;
+    height: 30px;
+}
+input[type="Email"]{
+    width: 200px;
+    height: 30px;
+}
+input[type="Qualification"]{
+    width: 200px;
+    height: 90px;
+}
+input[type="ch"]{
+    width: 200px;
+    height: 30px;
+}
+button{
+    width:200px;
+    height: 30px;
+    border-radius: 5px;
+    background-color:red;
+    margin-left: 50px;
+}
+img{
+    float: right;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    width:10%;
+    height: 10%;
+}
+caption {
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    padding-left: 20px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color:gold ;
+  }
