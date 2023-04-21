@@ -1,0 +1,90 @@
+body{
+    width: 100px;
+    height: 100px;
+}
+h1{
+    position: absolute;
+    top: 150px;
+    left: 90px;
+    color: rgb(16, 221, 217);
+}
+h3{
+    position: absolute;
+    top: 250px;
+    left: 90px;
+    color: rgb(16, 221, 217);
+}
+
+/* input::-webkit-input-placeholder{ 
+    color: red;
+}*/
+.preoeder{
+    /* color: rgb(16, 221, 217); */
+    position: absolute;
+    top: 350px;
+    left: 90px;
+    height: 30px;
+    /* border: black; */
+}
+button{
+        /* color: rgb(16, 221, 217); */
+        position: absolute;
+        top: 350px;
+        left: 260px;
+        height: 30px;
+        /* border: black; */
+}
+.img{
+    position: absolute;
+    top: 500px;
+    left: 260px;
+
+}
+.img1{
+    position: absolute;
+    top: 500px;
+    left: 660px;
+
+}
+.be{
+       position: absolute;
+       top: 600px; 
+       left: 250px; 
+    color: white;
+}
+.pro1{
+    position: absolute;
+    top: 650px; 
+    left: 200px; 
+ color: white;
+}
+.pro2{
+    position: absolute;
+    top: 350px; 
+    left: 300px; 
+ color: white;
+}
+.be1{
+    position: absolute;
+       top: 300px; 
+       left: 325px; 
+    color: white;
+}
+.img2{
+    position: absolute;
+    top: 500px;
+    right: 300px;
+
+}
+.be3{
+    position: absolute;
+       top: 600px; 
+       left: 1110px; 
+    color: white;
+}
+.pro3{
+    position: absolute;
+    top: 650px; 
+    left: 1060px; 
+ color: white;
+}

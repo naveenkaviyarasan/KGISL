@@ -1,0 +1,60 @@
+.well{
+    position: absolute;
+    right:230px;
+    top:220px;
+}
+.img1{
+    position: absolute;
+    top:250px;
+    left:900px;
+}
+input[type="text"]{
+    width: 800px;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
+.auther{
+    width: 795px;
+    margin-left: 0px;
+}
+div{
+    margin-left: 100px;
+}
+.don{
+    position: absolute;
+    right:200px;
+    top:230px;
+}
+.para{
+    position: absolute;
+    right:560px;
+    top:650px;
+
+}
+.acer{
+    position: absolute;
+    right:120px;
+    top:630px;
+}
+.another{
+    margin-right: 170px;
+}
+body{
+
+}
+hr{
+    size: 90px;
+}
+.text{
+    margin-left: 5px;
+    width: 800px;
+
+}
+.font{
+    
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+.fish{
+    width: 800px;
+}
