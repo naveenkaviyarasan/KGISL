@@ -1,7 +1,7 @@
 .well{
     position: absolute;
-    right:230px;
-    top:220px;
+    right:170px;
+    top:250px;
 }
 .img1{
     position: absolute;
@@ -15,8 +15,8 @@ input[type="text"]{
     border-right: none;
 }
 .auther{
-    width: 795px;
-    margin-left: 0px;
+    width: 400px;
+    margin-left: 100px;
 }
 div{
     margin-left: 100px;
@@ -28,17 +28,19 @@ div{
 }
 .para{
     position: absolute;
-    right:560px;
-    top:650px;
+    right:500px;
+    top:630px;
 
 }
 .acer{
     position: absolute;
-    right:120px;
+    right:30px;
     top:630px;
 }
 .another{
-    margin-right: 170px;
+    margin-right: 10px;
+    margin-top: -380px;
+    
 }
 body{
 
@@ -48,13 +50,26 @@ hr{
 }
 .text{
     margin-left: 6px;
-    width: 800px;
+    width: 400px;
 
 }
 .font{
     
     font-family: 'Sedgwick Ave Display', cursive;
+    
 }
 .fish{
     width: 800px;
+}
+.task{
+    margin-left: 100px;
+}
+.new{
+    width: 390px;
+    margin-left: 5px;
+}
+.well1{
+    margin-left: 500px;
+    margin-bottom: 900px;
+    
 }

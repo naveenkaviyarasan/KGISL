@@ -1,0 +1,98 @@
+h1{
+    position: absolute;
+    top: 220px;
+    left: 560px;
+    color: red;
+    background-color: black;
+    word-spacing: 10px;
+    padding: 10px;
+    font-family: font-family: 'Anton', sans-serif;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+img{
+    img contain: 40px;
+    img width: 50px;
+}
+h3{
+    position: absolute;
+    top: 290px;
+    left: 450px;
+    color: red;
+    background-color: black;
+    word-spacing: 5px;
+    padding: 10px;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+form{
+    margin-left: 90px;
+    border: solid black;
+    width: 150px;
+    height: 280px;
+    padding: 20px;
+    background-color: rgb(190, 193, 31);
+    color: white;
+}
+h4{
+    margin-left: 10px;
+}
+.meet{
+    margin-left: 25px;
+    margin-top: 10px;
+    
+}
+.staff{
+     margin-left: 450px; 
+    border: solid black;
+    width: 150px;
+    height: 280px;
+    padding: 20px; 
+    background-color: rgb(9, 201, 175);
+    margin-top: -325px;    
+    color: white;
+}
+.update{
+    margin-left: 800px; 
+   border: solid black;
+   width: 150px;
+   height: 280px;
+   padding: 20px;
+   background-color: rgb(201, 9, 108);
+margin-top: -325px; 
+color: white;   
+}
+.place{
+    margin-left: 1200px; 
+    border: solid black;
+    width: 150px;
+    height: 280px;
+    padding: 20px;
+    background-color: rgb(201, 9, 108);
+ margin-top: -325px;  
+ color: white;
+}
+.date{
+    color: black;
+    font-family: 'Sedgwick Ave Display', cursive;
+    margin-top: 10px;
+}
+.ment{
+    color: black;
+    font-family: 'Sedgwick Ave Display', cursive;
+    margin-top: 10px;
+}
+.meet{
+    color: black;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+.online{
+    color: black;
+    font-family: font-family: 'Anton', sans-serif;
+    font-family: 'Sedgwick Ave Display', cursive;
+    margin-top: 10px;
+}
+body{
+    background-color: rgb(184, 232, 233);
+}
+.meetone{
+    margin-top:5px;
+}
