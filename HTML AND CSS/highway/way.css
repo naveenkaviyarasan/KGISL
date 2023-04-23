@@ -1,0 +1,102 @@
+body{
+    font-family: FontAwesome;
+    max-width: 100%;
+    
+}
+.navbar{
+    max-width: 1520px;
+    border:2px solid rgb(8, 2, 2);
+    display:flex;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+.icon{
+    margin-left:89%;
+    margin-top: 10px;
+    font-size: 40px;
+}
+body{
+     background-image: url('https://media.istockphoto.com/id/1294603953/vector/abstract-black-stripes-diagonal-background.jpg?s=612x612&w=0&k=20&c=nQZHTk-o97cNVqWnUe8BJg0A5jQG0tqylquzbt9YtcQ=');
+     background-repeat: no-repeat;
+     background-size: 100%;
+}
+.head1{
+    color: rgb(65, 6, 216);
+    margin-left: 10px;
+}
+h1{
+    text-align: center;
+    margin-top: 90px;
+    color: rgb(19, 217, 12);
+}
+h5{
+    text-align: center;
+    color: rgb(19, 217, 12);
+}
+.font{
+    margin-left:50%;
+    margin-top: 10px;
+    font-size: 40px;
+}
+.opa{
+     opacity: 0.5; 
+    display: flex;
+}
+.opa:hover{
+    opacity: 1; 
+}
+.container{
+    margin-top: 1px;
+}
+.wel{
+    display: flex;
+    opacity: 0.7;
+}
+.wel:hover{
+    /* display: flex; */
+    opacity: 1;
+}
+.box1:hover{
+    opacity: 1;
+    /* display: flex; */
+}
+.box1{
+    opacity: 0.5;
+    display: flex;
+}
+.box2:hover{
+    opacity: 2;
+    /* display: flex; */
+}
+.box2{
+    opacity: 0.5;
+    display: flex;
+}
+.box3:hover{
+    opacity: 1;
+    /* display: flex; */
+}
+.box3{
+    opacity: 0.5;
+    display: flex;
+}
+.container{
+    opacity: 0.5;
+    display: flex;
+}
+.container:hover{
+    opacity: 1;
+}
+.con1{
+    opacity: 0.5;
+    display: flex;
+}
+.con1:hover{
+    opacity: 1;
+}
+.con2{
+    opacity: 0.5;
+    display: flex;
+}
+.con2:hover{
+    opacity: 1;
+}

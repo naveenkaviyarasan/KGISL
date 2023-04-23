@@ -1,0 +1,63 @@
+body{
+     background-image: url('https://e0.pxfuel.com/wallpapers/718/480/desktop-wallpaper-background-history-history-world-history.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    }
+    h1{
+        font-family: 'Sigmar', cursive;
+        word-spacing: 20px;
+        text-align: center;
+       }
+    h2{
+        font-family: 'Anton', sans-serif;
+        word-spacing: 20px;
+        text-align: center;
+    }
+    .ben{
+        border-right: solid black;
+        /* margin-right: 100px; */
+    }
+    .ben{
+        /* border-right: solid black; */
+        margin-right: 400px;
+        margin-left: 40px;
+        word-spacing: 10px;
+    }
+
+    p{
+        font-family: 'Caveat', cursive;
+        font-family: 'Sigmar', cursive;
+    }
+    h3{
+        text-align: center;
+    }
+    .whole{
+        display: flex;
+    }
+    .ben2{
+        margin-left: -395px;
+        /* border-right: solid black; */
+    }
+        .ben2{
+            border-right: solid black;
+            margin-right:710px;
+        }
+    
+    .ben3 img{
+        margin-left: -700px;
+        margin-top: 10px;
+        width: 790px;
+    
+    }
+    .man img{
+        margin-left: 90px;
+    }
+    .last{
+        text-align: left;
+        margin-left: -700px;
+    }
+    .bad{
+        margin-right: 1950px;
+        width: 90px;
+    }
