@@ -1,0 +1,40 @@
+.poster{
+    display: flex;
+    column-gap: 20px;
+    column-rule: 2px double black;
+}
+.eyes{
+    border-right: 3px solid black;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+.courage{
+    border-right: 3px solid black;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+.you{
+    border-right: 3px solid black;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+.little{
+    border-right: 3px solid black;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+.hitler{
+    margin-left: 10px;
+}
+.dream{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+h1{
+    font-family: 'Anton', sans-serif;
+font-family: 'Sedgwick Ave Display', cursive;
+}
+h5{
+    font-family: 'Anton', sans-serif;
+font-family: 'Sedgwick Ave Display', cursive;
+}
