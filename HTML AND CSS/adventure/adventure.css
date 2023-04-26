@@ -1,0 +1,87 @@
+.menu{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    gap: 5rem;
+    margin-top: 50px;
+    margin-left: 40px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-family: 'Sigmar', cursive;
+    font-size: large;
+    background-color: antiquewhite;
+    padding: 10px;
+    border-radius: 10px;
+
+    
+}
+.dropdown{
+    display: none;
+    position: absolute;
+    list-style-type: none;
+    margin-left: -44px;
+    margin-bottom: 5px;
+}
+.pages:hover .dropdown{
+    display: block;
+}
+.adven{
+    display: flex;
+    max-width: 100%;
+    
+}
+.menu a{
+    text-decoration: none;
+    padding: 10px;
+    color: rgb(5, 0, 0);
+    
+}
+.menu a:hover{
+    color: rgb(186, 9, 127);
+
+}
+.discover{
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-family: 'Sigmar', cursive;
+    color: #0f0101;
+    font-size: 30px;
+}
+.new{
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-family: 'Sigmar', cursive;
+    color: #0a0101;
+}
+.exit{
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-family: 'Sigmar', cursive;
+    color: #110303;
+}
+button{
+    margin-top: 30px;
+    height: 60px;
+    width: 190px;
+    margin-left: 38%;
+    border-radius: 10px;
+    background-color: lightcoral;
+}
+body{
+    background-image: url('https://wallpaperaccess.com/full/3976982.jpg');
+    background-size: cover;   
+}
+.content1{
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    border-radius: 5px;
+    width: 60%;
+    margin-left: 20%;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 30px;
+}

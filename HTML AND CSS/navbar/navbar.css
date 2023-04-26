@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+body{
+    max-width:100%;
+}
+.contact{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border: 2px solid black;
+    background-color: rgb(45, 71, 4);*/
+}
+.navbar{
+    max-width: 100%;
+    
+}
+.imdet{
+    max-width: 30%;
+}
+.menu{
+    display: flex;
+    max-width: 70%;
+    gap: 1rem;
+    font-size: 25px;
+    margin-right: 1rem  ;
+    
+}
+.menu li{
+    list-style-type: none;  
+    /* padding: 0.5rem; */
+    font-family: 'Anton', sans-serif;
+    font-family: 'Sedgwick Ave Display', cursive;  
+}
+a{
+    padding: 10px 5px;
+}
+a:hover{
+    background-color: red;
+    
+}
+.menu li a{
+    text-decoration: none;
+    color: black;
+    
+}
+input[type="search"]{
+    border-radius: 10px;
+
+}
+.landing{
+         text-align: center;
+         margin-top: 10%;
+         font-family: Verdana, Geneva, Tahoma, sans-serif;
+         font-size: 50px;
+         font-weight: 500;
+}
+.git{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+}
+.content{
+    /* border: 5px solid black; */
+    border: 2px;
+    width: 40%;
+    height: 40vh;
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 100px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 20px;
+    padding: 10px 10px 10px 10px ;
+}
+body{
+background-image: url('https://i1.wp.com/static.web-backgrounds.net/uploads/2012/08/City_Landscape_Background.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+.temp{
+    width: 60px;
+}
+.contactus{
+    display: inline-flex;
+    gap:15px;
+    margin-top: 5%;
+}
+.abc{
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.abc1{
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.abc2{
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.bar{
+    font-family: FontAwesome;
+}
+
