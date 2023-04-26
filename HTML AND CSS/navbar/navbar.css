@@ -107,4 +107,16 @@ background-attachment: fixed;
 .bar{
     font-family: FontAwesome;
 }
+.landing::first-letter{
+    font-family: Lucida Calligraphy;
+	font-size: 2cm;
+	color: rgb(1, 12, 3);
+	text-shadow: 5px 8px 9px rgb(231, 11, 220); 
+}
+.menu li::first-letter{
+    font-family: Lucida Calligraphy;
+	font-size: 2cm;
+	color: rgb(20, 1, 1);
+	text-shadow: 5px 8px 9px rgb(128, 0, 113);
+}
 
