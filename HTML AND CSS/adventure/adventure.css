@@ -85,3 +85,21 @@ body{
     background-color: rgba(255, 255, 255, 0.5);
     border-radius: 30px;
 }
+.discover::first-letter{
+    font-family: Lucida Calligraphy;
+	font-size: 3cm;
+	color: red;
+	text-shadow: 5px 8px 9px green;
+}
+.new::first-letter{
+    font-family: Lucida Calligraphy;
+	font-size: 1cm;
+	color: red;
+	text-shadow: 5px 8px 9px green;
+}
+.menu li::first-letter{
+    font-family: Lucida Calligraphy;
+	font-size: 1cm;
+	color: red;
+	text-shadow: 5px 8px 9px green;
+}
