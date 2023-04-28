@@ -1,18 +1,18 @@
 .menu{
     list-style-type: none;
-    display: flex;
-    justify-content: space-between; 
-    align-items: center; 
+     display: flex;
+     justify-content: space-between; 
+     align-items: center; 
     gap: 5rem;
     margin-top: 50px;
-    margin-left: 40px;
+    margin-left: 40px; 
     font-family: 'Anton', sans-serif;
     font-family: 'Sedgwick Ave Display', cursive;
     font-family: 'Sigmar', cursive;
     font-size: large;
     background-color: antiquewhite;
     padding: 10px;
-    border-radius: 10px;
+    border-radius: 10px;   
 
     
 }
